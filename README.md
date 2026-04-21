@@ -14,7 +14,7 @@ Beyond completing the course, I gained hands-on familiarity with working in Linu
 
 This learning will be useful in my future work in embedded systems, firmware development, and engineering workflows where Linux is often an important part of the environment.
 
-![Certificate](Mastering Linux - The Complete Guide - Certificate.jpg)
+![Certificate](Mastering Linux - The Complete Guide - Certificate .jpg)
 
 # Linux Notes Guide: Basic to Advanced
 
