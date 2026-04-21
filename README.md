@@ -1,3 +1,21 @@
+# Linux Learning Journey
+
+I completed the Udemy course **Mastering Linux: The Complete Guide to Becoming a Linux Pro**, which gave me a structured introduction to Linux fundamentals and practical command-line usage.
+
+This course helped me strengthen my understanding of:
+- Linux file systems
+- Terminal-based navigation and operations
+- User, group, and permission management
+- Process handling
+- Package installation and system utilities
+- Basic administrative workflows
+
+Beyond completing the course, I gained hands-on familiarity with working in Linux environments and developed a better understanding of how Linux supports software development, system control, and technical problem-solving.
+
+This learning will be useful in my future work in embedded systems, firmware development, and engineering workflows where Linux is often an important part of the environment.
+
+![Certificate](Mastering Linux - The Complete Guide - Certificate.jpg)
+
 # Linux Notes Guide: Basic to Advanced
 
 ## Table of Contents
